@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python, Data Science, DevOps, C++
 - 🌱 I’m currently taking a look at web development
   
-![84gmeu](https://github.com/HubAri/HubAri/assets/149235827/ffb7baab-7ccc-45ff-b252-8dba093ad624)
+![giphy](https://github.com/HubAri/HubAri/assets/149235827/73ab0c78-93fa-47a1-9e76-f8aa20b4e187)
+
 
 
 <!---
