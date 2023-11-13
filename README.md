@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HubAri
+- 👋 Hi, I’m @HubAri!
 - 👀 I’m interested in Python, Data Science, DevOps, C++
 - 🌱 I’m currently taking a look at web development
   
